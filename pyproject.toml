@@ -1,0 +1,22 @@
+[project]
+name = "search-ranker"
+version = "0.1.0"
+description = "Baseline BM25 search ranking experiments for iterative query-space exploration."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+datasets = ["ir_datasets>=0.5.8"]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["search_ranker*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

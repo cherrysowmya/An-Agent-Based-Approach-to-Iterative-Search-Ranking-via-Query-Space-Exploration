@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+outputs/
+data/msmarco_trec_dl_2019_judged/
+data/msmarco_trec_dl_2020_judged/
+data/msmarco_trec_dl_manifest.json
