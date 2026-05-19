@@ -1,0 +1,22 @@
+Baseline BM25 Retrieval Run
+==========================
+corpus_path: data/msmarco_trec_dl_2019_judged/corpus.csv
+queries_path: data/msmarco_trec_dl_2019_judged/queries.csv
+qrels_path: data/msmarco_trec_dl_2019_judged/qrels.csv
+top_k: 10
+relevance_threshold: 2.0
+max_queries: 5
+
+Dataset Summary
+---------------
+documents: 9139
+queries: 5
+judged query-document pairs: 9260
+
+Queries
+-------
+1037798: who is robert gray
+104861: cost of interior concrete flooring
+1063750: why did the us volunterilay enter ww1
+1103812: who formed the commonwealth of independent states
+1106007: define visceral?

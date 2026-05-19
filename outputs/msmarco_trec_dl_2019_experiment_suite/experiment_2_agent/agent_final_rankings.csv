@@ -1,0 +1,51 @@
+query_id,iteration,query,doc_id,title,bm25_rank,bm25_score,llm_score,hybrid_score,llm_reason,relevance,final_rank
+1037798,1,who is robert gray,8760867,MS MARCO Passage 8760867,1,19.073422,8.0,8.3,"Document mentions Robert Gray as Democratic nominee for Mississippi Governor, matching query.",0.0,1
+1037798,1,who is robert gray,8760864,MS MARCO Passage 8760864,2,17.602359,8.0,8.15,"Document mentions 'Robert Gray' as a candidate for governor, matching query.",0.0,2
+1037798,1,who is robert gray,3641634,MS MARCO Passage 3641634,3,16.826389,8.0,8.0,Document is about Captain Robert Gray's discovery of the Columbia River in 1792.,3.0,3
+1037798,1,who is robert gray,2157456,MS MARCO Passage 2157456,4,16.694498,8.0,7.85,"Document mentions Robert Gray Army Air Field Airport, which matches query term 'Robert Gray'",0.0,4
+1037798,1,who is robert gray,8760873,MS MARCO Passage 8760873,5,16.376731,8.0,7.7,"Document mentions 'Robert Gray' as a candidate, matching query.",0.0,5
+1037798,1,who is robert gray,3620983,MS MARCO Passage 3620983,8,15.131319,8.0,7.25,Passage provides information about Robert Gray's background and campaign for Governor of Mississippi.,0.0,6
+1037798,1,who is robert gray,8760870,MS MARCO Passage 8760870,10,14.025003,8.0,6.95,"Document mentions Robert Gray as Democratic nominee for Mississippi Governor, matching query.",0.0,7
+1037798,1,who is robert gray,8760868,MS MARCO Passage 8760868,9,14.827966,6.0,5.4,"Document mentions a person named Robert Gray, but context is about a political primary, not general information.",0.0,8
+1037798,1,who is robert gray,4788864,MS MARCO Passage 4788864,6,16.150983,2.0,2.45,"Passage mentions a person named Robert, but context is about Robert E. Lee and not directly related to query.",0.0,9
+1037798,1,who is robert gray,2787508,MS MARCO Passage 2787508,7,16.135051,2.0,2.3,"Passage is about Henry Gray, not Robert Gray. Only mentions Robert Lockwood, Jr. as a collaborator.",0.0,10
+104861,1,cost of interior concrete flooring,5150431,MS MARCO Passage 5150431,3,19.15309,9.0,8.85,"Provides specific price ranges for various types of flooring, including concrete, which matches the query.",2.0,1
+104861,1,cost of interior concrete flooring,409268,MS MARCO Passage 409268,4,18.846537,9.0,8.7,"Passage directly addresses cost, design features, and maintenance of interior concrete flooring.",1.0,2
+104861,1,cost of interior concrete flooring,8141081,MS MARCO Passage 8141081,1,19.32913,8.0,8.3,"Passage discusses costs of ceramic tile flooring, which is a type of interior concrete flooring.",0.0,3
+104861,1,cost of interior concrete flooring,5379458,MS MARCO Passage 5379458,6,18.274565,8.0,7.55,"Passage discusses types of concrete floor finishes, including interior applications, which is relevant to cost query.",0.0,4
+104861,1,cost of interior concrete flooring,8259116,MS MARCO Passage 8259116,7,17.924265,8.0,7.4,"Passage discusses average prices, design features, and maintenance of interior concrete flooring.",0.0,5
+104861,1,cost of interior concrete flooring,6200735,MS MARCO Passage 6200735,8,17.90173,8.0,7.25,"Passage discusses stained concrete flooring costs, directly addressing query about interior concrete flooring expenses.",0.0,6
+104861,1,cost of interior concrete flooring,5405670,MS MARCO Passage 5405670,9,17.788817,8.0,7.1,"Passage discusses various building costs and mentions concrete slab as an option, but doesn't directly address interior concrete flooring.",0.0,7
+104861,1,cost of interior concrete flooring,2958127,MS MARCO Passage 2958127,10,17.729494,8.0,6.95,Passage mentions stamped concrete as a material suitable for interior flooring.,0.0,8
+104861,1,cost of interior concrete flooring,6436838,MS MARCO Passage 6436838,2,19.302444,6.0,6.45,"Passage mentions concrete floor finishes and uses, but doesn't specifically address cost of interior concrete flooring.",0.0,9
+104861,1,cost of interior concrete flooring,8260037,MS MARCO Passage 8260037,5,18.474125,6.0,6.0,"Mentions decorative concrete flooring as an alternative, but doesn't specifically address cost or interior application.",0.0,10
+1063750,2,US entry into WW1 voluntary,4788295,MS MARCO Passage 4788295,1,17.396277,8.0,8.3,"Passage explains US entry into WW1 in April 1917, clarifying it was not influenced by the Bolshevik Revolution.",0.0,1
+1063750,2,US entry into WW1 voluntary,3633198,MS MARCO Passage 3633198,3,15.108272,8.0,8.0,"Passage discusses Britain's entry into WW1 and reasons for it, including German invasion of Belgium.",0.0,2
+1063750,2,US entry into WW1 voluntary,5956099,MS MARCO Passage 5956099,4,14.558985,8.0,7.85,"Passage discusses US entry into WW1, specifically due to German submarine warfare and its impact on the war's outcome.",2.0,3
+1063750,2,US entry into WW1 voluntary,7571423,MS MARCO Passage 7571423,5,12.130796,8.0,7.7,"Passage explains US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",2.0,4
+1063750,2,US entry into WW1 voluntary,4802036,MS MARCO Passage 4802036,6,11.981716,8.0,7.55,"Passage directly addresses US entry into WW1, but does not mention voluntary aspect.",1.0,5
+1063750,2,US entry into WW1 voluntary,8239876,MS MARCO Passage 8239876,7,11.700931,8.0,7.4,"Passage discusses US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",2.0,6
+1063750,2,US entry into WW1 voluntary,8239877,MS MARCO Passage 8239877,8,11.571297,8.0,7.25,"Passage discusses US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",2.0,7
+1063750,2,US entry into WW1 voluntary,2197526,MS MARCO Passage 2197526,9,11.244608,8.0,7.1,"Mentions US role in WW1, but notes they didn't ratify a key treaty, partially addressing query's 'voluntary' aspect.",0.0,8
+1063750,2,US entry into WW1 voluntary,6666451,MS MARCO Passage 6666451,2,17.032226,6.0,6.45,"Passage discusses US attitude towards WW1, but doesn't explicitly mention voluntary entry or BM25 score is high due to keyword presence.",1.0,9
+1063750,2,US entry into WW1 voluntary,6293679,MS MARCO Passage 6293679,10,10.70579,0.0,0.15,"Passage discusses entry-level job requirements, not US entry into WW1",0.0,10
+1103812,1,who formed the commonwealth of independent states,3843267,MS MARCO Passage 3843267,1,23.065167,8.0,8.3,"Mentions formation of CIS, which matches query, but doesn't explicitly mention 'independent states' as part of its name.",3.0,1
+1103812,1,who formed the commonwealth of independent states,8220086,MS MARCO Passage 8220086,2,22.874154,8.0,8.15,"Document directly answers query about formation of CIS, a key event in post-Soviet history.",1.0,2
+1103812,1,who formed the commonwealth of independent states,1659850,MS MARCO Passage 1659850,3,22.450935,8.0,8.0,Mentions Commonwealth of Independent States as an alliance of former Soviet Socialist Republics,1.0,3
+1103812,1,who formed the commonwealth of independent states,4401695,MS MARCO Passage 4401695,7,20.014625,8.0,7.4,"Passage mentions formation of Commonwealth of Independent States in 1991, matching query.",2.0,4
+1103812,1,who formed the commonwealth of independent states,3843263,MS MARCO Passage 3843263,9,18.847971,8.0,7.1,"Document mentions the Commonwealth of Independent States and an agreement related to it, but doesn't explicitly mention who formed it.",1.0,5
+1103812,1,who formed the commonwealth of independent states,3672744,MS MARCO Passage 3672744,10,18.794635,8.0,6.95,"Defines Commonwealth as an independent country/community/state within a republic, mentions US states like Pennsylvania",0.0,6
+1103812,1,who formed the commonwealth of independent states,1659852,MS MARCO Passage 1659852,4,21.623029,6.0,6.15,"Mentions Commonwealth of Independent States, but passage is about multiple organizations, not a direct answer",2.0,7
+1103812,1,who formed the commonwealth of independent states,8220089,MS MARCO Passage 8220089,5,21.169248,6.0,6.0,"The passage mentions the CIS and its establishment, but doesn't explicitly state who formed it.",3.0,8
+1103812,1,who formed the commonwealth of independent states,6289840,MS MARCO Passage 6289840,6,20.16809,2.0,2.45,"Passage mentions Commonwealth of Independent States, but query asks about formation",1.0,9
+1103812,1,who formed the commonwealth of independent states,2360676,MS MARCO Passage 2360676,8,18.922084,2.0,2.15,"Passage mentions formation of a union, but not Commonwealth of Independent States.",0.0,10
+1106007,1,define visceral?,1334335,MS MARCO Passage 1334335,1,15.047171,8.0,8.3,"Defines visceral with reference to internal organs and instinctive/unreasoning nature, matching query intent.",3.0,1
+1106007,1,define visceral?,5836920,MS MARCO Passage 5836920,2,13.621147,8.0,8.15,"Passage defines visceral peritoneum, which is related to the query's definition request.",0.0,2
+1106007,1,define visceral?,7726655,MS MARCO Passage 7726655,3,12.532307,8.0,8.0,"Passage defines visceral in relation to serous membranes, but doesn't provide a direct definition.",0.0,3
+1106007,1,define visceral?,8204463,MS MARCO Passage 8204463,10,8.991887,9.0,7.8,"Passage directly defines and provides examples of the word 'visceral', matching query intent.",2.0,4
+1106007,1,define visceral?,3537614,MS MARCO Passage 3537614,5,12.052487,8.0,7.7,"Passage defines 'visceral' as related to the viscera, but doesn't directly answer the query.",0.0,5
+1106007,1,define visceral?,6942456,MS MARCO Passage 6942456,6,11.555998,8.0,7.55,"Defines visceral in context of anatomy, specifically referring to a layer of pleura.",0.0,6
+1106007,1,define visceral?,2384069,MS MARCO Passage 2384069,7,10.629907,8.0,7.4,"Passage defines visceral fat, but also discusses related concept of subcutaneous fat, making it partially relevant to query.",0.0,7
+1106007,1,define visceral?,7022723,MS MARCO Passage 7022723,8,10.318141,8.0,7.25,"Defines referred pain, which is related to visceral pain, but not directly answering 'define visceral'.",0.0,8
+1106007,1,define visceral?,5279699,MS MARCO Passage 5279699,9,9.078601,8.0,7.1,"Defines visceral muscle, matching query term, but passage is brief and lacks detailed explanation.",0.0,9
+1106007,1,define visceral?,2143418,MS MARCO Passage 2143418,4,12.368048,0.0,1.05,"Passage discusses anatomy of pleura, but does not define 'visceral' in context of query.",0.0,10

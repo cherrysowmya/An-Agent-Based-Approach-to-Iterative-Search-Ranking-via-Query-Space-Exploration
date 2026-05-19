@@ -4,7 +4,9 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .venv/
-outputs/
+outputs/*
+!outputs/msmarco_trec_dl_2019_experiment_suite/
+!outputs/msmarco_trec_dl_2019_experiment_suite/**
 data/msmarco_trec_dl_2019_judged/
 data/msmarco_trec_dl_2020_judged/
 data/msmarco_trec_dl_manifest.json

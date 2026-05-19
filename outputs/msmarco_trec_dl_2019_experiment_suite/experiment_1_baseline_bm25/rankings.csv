@@ -1,0 +1,51 @@
+query_id,query,rank,doc_id,title,score,relevance
+1037798,who is robert gray,1,8760867,MS MARCO Passage 8760867,19.073422,0.0
+1037798,who is robert gray,2,8760864,MS MARCO Passage 8760864,17.602359,0.0
+1037798,who is robert gray,3,3641634,MS MARCO Passage 3641634,16.826389,3.0
+1037798,who is robert gray,4,2157456,MS MARCO Passage 2157456,16.694498,0.0
+1037798,who is robert gray,5,8760873,MS MARCO Passage 8760873,16.376731,0.0
+1037798,who is robert gray,6,4788864,MS MARCO Passage 4788864,16.150983,0.0
+1037798,who is robert gray,7,2787508,MS MARCO Passage 2787508,16.135051,0.0
+1037798,who is robert gray,8,3620983,MS MARCO Passage 3620983,15.131319,0.0
+1037798,who is robert gray,9,8760868,MS MARCO Passage 8760868,14.827966,0.0
+1037798,who is robert gray,10,8760870,MS MARCO Passage 8760870,14.025003,0.0
+104861,cost of interior concrete flooring,1,8141081,MS MARCO Passage 8141081,19.32913,0.0
+104861,cost of interior concrete flooring,2,6436838,MS MARCO Passage 6436838,19.302444,0.0
+104861,cost of interior concrete flooring,3,5150431,MS MARCO Passage 5150431,19.15309,2.0
+104861,cost of interior concrete flooring,4,409268,MS MARCO Passage 409268,18.846537,1.0
+104861,cost of interior concrete flooring,5,8260037,MS MARCO Passage 8260037,18.474125,0.0
+104861,cost of interior concrete flooring,6,5379458,MS MARCO Passage 5379458,18.274565,0.0
+104861,cost of interior concrete flooring,7,8259116,MS MARCO Passage 8259116,17.924265,0.0
+104861,cost of interior concrete flooring,8,6200735,MS MARCO Passage 6200735,17.90173,0.0
+104861,cost of interior concrete flooring,9,5405670,MS MARCO Passage 5405670,17.788817,0.0
+104861,cost of interior concrete flooring,10,2958127,MS MARCO Passage 2958127,17.729494,0.0
+1063750,why did the us volunterilay enter ww1,1,7778351,MS MARCO Passage 7778351,25.616388,0.0
+1063750,why did the us volunterilay enter ww1,2,3805477,MS MARCO Passage 3805477,21.858825,0.0
+1063750,why did the us volunterilay enter ww1,3,2868845,MS MARCO Passage 2868845,21.694915,0.0
+1063750,why did the us volunterilay enter ww1,4,5256198,MS MARCO Passage 5256198,21.343893,0.0
+1063750,why did the us volunterilay enter ww1,5,6436703,MS MARCO Passage 6436703,20.315646,0.0
+1063750,why did the us volunterilay enter ww1,6,4844353,MS MARCO Passage 4844353,19.702767,0.0
+1063750,why did the us volunterilay enter ww1,7,7778348,MS MARCO Passage 7778348,18.210876,0.0
+1063750,why did the us volunterilay enter ww1,8,3959834,MS MARCO Passage 3959834,17.031328,0.0
+1063750,why did the us volunterilay enter ww1,9,2197526,MS MARCO Passage 2197526,16.504532,0.0
+1063750,why did the us volunterilay enter ww1,10,4164404,MS MARCO Passage 4164404,16.446177,0.0
+1103812,who formed the commonwealth of independent states,1,3843267,MS MARCO Passage 3843267,23.065167,3.0
+1103812,who formed the commonwealth of independent states,2,8220086,MS MARCO Passage 8220086,22.874154,1.0
+1103812,who formed the commonwealth of independent states,3,1659850,MS MARCO Passage 1659850,22.450935,1.0
+1103812,who formed the commonwealth of independent states,4,1659852,MS MARCO Passage 1659852,21.623029,2.0
+1103812,who formed the commonwealth of independent states,5,8220089,MS MARCO Passage 8220089,21.169248,3.0
+1103812,who formed the commonwealth of independent states,6,6289840,MS MARCO Passage 6289840,20.16809,1.0
+1103812,who formed the commonwealth of independent states,7,4401695,MS MARCO Passage 4401695,20.014625,2.0
+1103812,who formed the commonwealth of independent states,8,2360676,MS MARCO Passage 2360676,18.922084,0.0
+1103812,who formed the commonwealth of independent states,9,3843263,MS MARCO Passage 3843263,18.847971,1.0
+1103812,who formed the commonwealth of independent states,10,3672744,MS MARCO Passage 3672744,18.794635,0.0
+1106007,define visceral?,1,1334335,MS MARCO Passage 1334335,15.047171,3.0
+1106007,define visceral?,2,5836920,MS MARCO Passage 5836920,13.621147,0.0
+1106007,define visceral?,3,7726655,MS MARCO Passage 7726655,12.532307,0.0
+1106007,define visceral?,4,2143418,MS MARCO Passage 2143418,12.368048,0.0
+1106007,define visceral?,5,3537614,MS MARCO Passage 3537614,12.052487,0.0
+1106007,define visceral?,6,6942456,MS MARCO Passage 6942456,11.555998,0.0
+1106007,define visceral?,7,2384069,MS MARCO Passage 2384069,10.629907,0.0
+1106007,define visceral?,8,7022723,MS MARCO Passage 7022723,10.318141,0.0
+1106007,define visceral?,9,5279699,MS MARCO Passage 5279699,9.078601,0.0
+1106007,define visceral?,10,8204463,MS MARCO Passage 8204463,8.991887,2.0

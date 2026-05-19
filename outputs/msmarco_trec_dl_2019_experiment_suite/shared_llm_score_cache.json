@@ -1,0 +1,242 @@
+{
+  "03ebc3ca5ade6543bc9a5bcbbd5e4ffc4a7b1407b080ddf46a66c602ec8cc6d0": {
+    "reason": "Passage discusses stained concrete flooring costs, directly addressing query about interior concrete flooring expenses.",
+    "score": 8.0
+  },
+  "058e836d7ce78e9095df15aaffad59d3ff67069ad1327db43eeec3a435d2cfaa": {
+    "reason": "Passage is about WWII, not WW1, and mentions different events.",
+    "score": 0.0
+  },
+  "05afe5e90fed6f1ebfe6d345f72f7de7731d549ec773e6f0df79952f5c7f214d": {
+    "reason": "Passage discusses costs of ceramic tile flooring, which is a type of interior concrete flooring.",
+    "score": 8.0
+  },
+  "0cea62788e5f4767e9d6a45ba8294c41266b415779eee2c0e4d11c95d9a888a3": {
+    "reason": "Defines visceral with reference to internal organs and instinctive/unreasoning nature, matching query intent.",
+    "score": 8.0
+  },
+  "1024ae2ae09ca1b155498330a69ca521063b82eac7b058f2f9e5ddf1ab561653": {
+    "reason": "Passage mentions formation of Commonwealth of Independent States in 1991, matching query.",
+    "score": 8.0
+  },
+  "11e47653c2e22db8f0440c1e26ace018215feea9977f5289dc417ee6f90d3031": {
+    "reason": "Passage discusses US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",
+    "score": 8.0
+  },
+  "208ea19e96b94b24e58e5868bffbab84d413aa0112dffafd068f45a489b44396": {
+    "reason": "Document mentions Robert Gray as Democratic nominee for Mississippi Governor, matching query.",
+    "score": 8.0
+  },
+  "222ee8baae1de8d5c29e48fbba085d308eaef63fb0f3da75ba82bab61c397cae": {
+    "reason": "Passage provides information about Robert Gray's background and campaign for Governor of Mississippi.",
+    "score": 8.0
+  },
+  "23b2168bd54eaa7ed029781930c1a10b53e73df48fa5f06130d31427f424b1d8": {
+    "reason": "Passage discusses US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",
+    "score": 8.0
+  },
+  "24ad19f611168a68e9159d3de22dfaec6efb15909b0a944b2adfc5c62a445fc5": {
+    "reason": "Passage mentions concrete floor finishes and uses, but doesn't specifically address cost of interior concrete flooring.",
+    "score": 6.0
+  },
+  "2bb1fed1b63c9aebc2651dc495b72648c7300015ea1cdc5a55a812f3b8d9583d": {
+    "reason": "Passage discusses anatomy of pleura, but does not define 'visceral' in context of query.",
+    "score": 0.0
+  },
+  "2d423e2440404f4e709e80b33c3154e7c0def13bfb77ab50996634e7a5bb6340": {
+    "reason": "Mentions US role in WW1, but notes they didn't ratify a key treaty, partially addressing query's 'voluntary' aspect.",
+    "score": 8.0
+  },
+  "33ebd09edd91be26b31e6056e8d518a09ac101df7a283ac8462307bfff7d3f4e": {
+    "reason": "Provides specific price ranges for various types of flooring, including concrete, which matches the query.",
+    "score": 9.0
+  },
+  "35abac924446d4a545da56ea174e9560553d85d3d66acfb56212126c4d6f73c3": {
+    "reason": "Passage discusses US entry into WW1, but mentions Isolationists and WW2, showing some relevance.",
+    "score": 8.0
+  },
+  "36e608966891b851e410b3522198f1b8f1b2dc6442ac729692d4c8b3aaef3cdd": {
+    "reason": "Passage directly defines and provides examples of the word 'visceral', matching query intent.",
+    "score": 9.0
+  },
+  "3891e48e441ccde935205aca1b960415fb4dfb16aa2063abfddec2d0cb2254cb": {
+    "reason": "Passage explains US entry into WW1 in April 1917, clarifying it was not influenced by the Bolshevik Revolution.",
+    "score": 8.0
+  },
+  "409ce6235e035770407f00f3f87f961ae6bd1362a3d86938b583456edf629a84": {
+    "reason": "Document mentions a person named Robert Gray, but context is about a political primary, not general information.",
+    "score": 6.0
+  },
+  "412664b78a620044c4415986e8a0891040cec40aabe50064cada4690380476d5": {
+    "reason": "Mentions reasons for US entry into WW2, including attack on Pearl Harbor, which is relevant to query about voluntary entry.",
+    "score": 8.0
+  },
+  "45905c1096193ac0d295a3afe94db8b669941580dbbb7d18e4396f813aa58c89": {
+    "reason": "Passage discusses US entry into WW1, specifically due to German submarine warfare and its impact on the war's outcome.",
+    "score": 8.0
+  },
+  "4a1812d6e63e1b488b4d093ebfad2d712cf3ba28e11f65831a65d7a2886186bc": {
+    "reason": "Passage discusses Germany's surrender in WW1, not US entry into the war.",
+    "score": 0.0
+  },
+  "52e98b50a76d47e578387501003e2f1cfe031c7e4ed0e4d7ddf79967d3e582d7": {
+    "reason": "Document mentions Robert Gray as Democratic nominee for Mississippi Governor, matching query.",
+    "score": 8.0
+  },
+  "5985d376e82df703f018ca682a974dccdea48bfdab83666eabed560031482009": {
+    "reason": "Document mentions 'Robert Gray' as a candidate for governor, matching query.",
+    "score": 8.0
+  },
+  "59ad2aa6ed027e281a26163db91e4717ef782631436bd6ebaac7d1808ab97f09": {
+    "reason": "Passage mentions stamped concrete as a material suitable for interior flooring.",
+    "score": 8.0
+  },
+  "5ab71a0c7448bed125500af19dad9e0db67cdc8a8ba911174cd50e081bd0f198": {
+    "reason": "Passage mentions formation of a union, but not Commonwealth of Independent States.",
+    "score": 2.0
+  },
+  "5ed74ceac4e24f32bee508885115405a7bbda9a41bc648f3b77097271e4fc3d9": {
+    "reason": "Passage discusses US entry into WW2, not WW1, and mentions incorrect year (1939) instead of 1917.",
+    "score": 0.0
+  },
+  "61df2ac01ad4bf75576c37527629d67feb0c75369df38c7589a0e11b788b5b15": {
+    "reason": "Mentions decorative concrete flooring as an alternative, but doesn't specifically address cost or interior application.",
+    "score": 6.0
+  },
+  "6304cd335129f70c55080944ef0b1a26c1e383af23d28fb936c0d59b367ef5f9": {
+    "reason": "Defines referred pain, which is related to visceral pain, but not directly answering 'define visceral'.",
+    "score": 8.0
+  },
+  "66ee0d1fb9e3fc1f527b596f31f044b9c189958ec9d0c5b12c47f65df8d3c229": {
+    "reason": "Passage discusses US attitude towards WW1, but doesn't explicitly mention voluntary entry or BM25 score is high due to keyword presence.",
+    "score": 6.0
+  },
+  "6d4a599899d37f30475e3f3c735ec224005d1208b4a1b0f634dcd681a02ceb8f": {
+    "reason": "Passage discusses various building costs and mentions concrete slab as an option, but doesn't directly address interior concrete flooring.",
+    "score": 8.0
+  },
+  "70995dfd16cdb8a718e2d499b91932374456174bdf1c264d882e8a973aca804e": {
+    "reason": "Document directly answers query about formation of CIS, a key event in post-Soviet history.",
+    "score": 8.0
+  },
+  "79d6ef31c85ec80cfff46a8dc6536cd994460d92ab56231e956100e89fdec285": {
+    "reason": "Passage is about Vietnam War, not WW1. Incorrect historical context.",
+    "score": 0.0
+  },
+  "79f31cdc24c16eb911001313ffb28c0c129c5e9b00affe3a9198a7c204bfe50b": {
+    "reason": "Passage directly addresses US entry into WW1, but does not mention voluntary aspect.",
+    "score": 8.0
+  },
+  "7b1e071f345e568b46a6f1383e817b183b29b8278203a60eb6386aa3b6c776a9": {
+    "reason": "Document mentions the Commonwealth of Independent States and an agreement related to it, but doesn't explicitly mention who formed it.",
+    "score": 8.0
+  },
+  "80d36659c90ce1cdd2fef3f0eccd7409a67e9702dc47d9b9c62773b7a5b983b6": {
+    "reason": "Mentions Commonwealth of Independent States, but passage is about multiple organizations, not a direct answer",
+    "score": 6.0
+  },
+  "8344a8ad5b2e1b40f54bdc7cac27dae3a1fef9f567f97686ca8a4efd79b0d39d": {
+    "reason": "Passage discusses entry-level job requirements, not US entry into WW1",
+    "score": 0.0
+  },
+  "835140a54998efbf99e76df15d4f4216e889b3580415c22d972434ab4386b1f1": {
+    "reason": "Mentions formation of CIS, which matches query, but doesn't explicitly mention 'independent states' as part of its name.",
+    "score": 8.0
+  },
+  "850df3d127f20ecba799d5a95550340ba137d96ab680364dcd98671742f8d16d": {
+    "reason": "Mentions Commonwealth of Independent States as an alliance of former Soviet Socialist Republics",
+    "score": 8.0
+  },
+  "8ae8df1b4570c398a4b8aa3942df095fc183258e9fd3cc017776afbfca076595": {
+    "reason": "Passage directly addresses cost, design features, and maintenance of interior concrete flooring.",
+    "score": 9.0
+  },
+  "8e51771920287cdc1b90f32ad90bfd76bf5a8645bc0b6d1996f83ae01f40f78b": {
+    "reason": "Passage mentions a person named Robert, but context is about Robert E. Lee and not directly related to query.",
+    "score": 2.0
+  },
+  "978c91935293b5bc805c3f34d7c6d9f0c188eba676eda80093f5c9f4c8b85e03": {
+    "reason": "The passage mentions the CIS and its establishment, but doesn't explicitly state who formed it.",
+    "score": 6.0
+  },
+  "9a814c4571c125deb27b2252a9502bbf974a2cbe7e0df9dcfa957fe3e4614b13": {
+    "reason": "Passage mentions Commonwealth of Independent States, but query asks about formation",
+    "score": 2.0
+  },
+  "9b6ee27f4cf168e564a6050bf63a148e76c5ac341a7afc9baab1de8e91ee9706": {
+    "reason": "Document is about Captain Robert Gray's discovery of the Columbia River in 1792.",
+    "score": 8.0
+  },
+  "9eac304826ed4ba33c0185c35a9debb7ee46e2532751b52c145683967042f7d1": {
+    "reason": "The passage mentions a WW1 treaty, but does not address why the US entered the war.",
+    "score": 2.0
+  },
+  "a1d236f9d02c5634754f139aff0fe22bd53d0ff8d0cde0a6ac4d211765cec460": {
+    "reason": "Passage defines visceral in relation to serous membranes, but doesn't provide a direct definition.",
+    "score": 8.0
+  },
+  "a7a82e1a7ad2b2311c7b2921fb4966422a03617bb0e10c363de7ae3a0bf10f83": {
+    "reason": "Passage is about Henry Gray, not Robert Gray. Only mentions Robert Lockwood, Jr. as a collaborator.",
+    "score": 2.0
+  },
+  "b17ebd0d5a8604b1158648bf51bb18df0058464ab3ec3fd821c4a37c472f667f": {
+    "reason": "Document mentions 'Robert Gray' as a candidate, matching query.",
+    "score": 8.0
+  },
+  "b1d7ff29699106af2f5e25b9684c681c702555bab29aab9ba5eb1e9ffb3ca6ce": {
+    "reason": "Passage is about US entry into Vietnam War, not WW1",
+    "score": 0.0
+  },
+  "b3d46c3198a364dc980d06724e875086f675868cea6be4f8d4ea0c5e0379826f": {
+    "reason": "Defines Commonwealth as an independent country/community/state within a republic, mentions US states like Pennsylvania",
+    "score": 8.0
+  },
+  "baa055e56d64460ca91e9f9aa717889feda89ef42406af9bcf1f5b1582042986": {
+    "reason": "Passage is about WW1 but focuses on China's declaration of war, not US involvement.",
+    "score": 0.0
+  },
+  "be8ac7cd3e405fba17a0f7cdaa79e8812a0fb27de7d5e212760f027db34d25d5": {
+    "reason": "Passage discusses average prices, design features, and maintenance of interior concrete flooring.",
+    "score": 8.0
+  },
+  "c8ffc3e94487990e640a403c530e798ee05c65de7342b5e2d9d067f074ac7caa": {
+    "reason": "Passage discusses Britain's entry into WW1 and reasons for it, including German invasion of Belgium.",
+    "score": 8.0
+  },
+  "d757027f8ebf93160b6af8dccfae690cd036384c1e6ef8738a7a7b316396a787": {
+    "reason": "Passage defines 'visceral' as related to the viscera, but doesn't directly answer the query.",
+    "score": 8.0
+  },
+  "e623181804560a8eebbe60685a07577d4649dc9d6e4f209d476ab0e45dd22cbf": {
+    "reason": "Passage discusses types of concrete floor finishes, including interior applications, which is relevant to cost query.",
+    "score": 8.0
+  },
+  "ed30b938b13819dcc897b72db987ba93daa20b6456dfa5efc9c48d3643ac1d42": {
+    "reason": "Passage defines visceral fat, but also discusses related concept of subcutaneous fat, making it partially relevant to query.",
+    "score": 8.0
+  },
+  "efbd342a4fbac24a1ec9508ade04598333c0c7317c1bacc9d23e7c7adbb670a5": {
+    "reason": "Defines visceral muscle, matching query term, but passage is brief and lacks detailed explanation.",
+    "score": 8.0
+  },
+  "f262c9eb0cf034ab1c3b69920bb0a03918ec24667f5d4a234182febab9a40b65": {
+    "reason": "Passage discusses unrelated historical questions, but mentions WW1; query is about US entry into WW1",
+    "score": 3.0
+  },
+  "f53ddcd10f7a30cb4f3ab934b1a6dbd461aa881c650a27c1364cd9b44c9c7a06": {
+    "reason": "Document mentions Robert Gray Army Air Field Airport, which matches query term 'Robert Gray'",
+    "score": 8.0
+  },
+  "f8aebfac100fc64860b78f47d379cdd2c467e061beff0bc6f55c163238ebcce8": {
+    "reason": "Passage explains US entry into WW1 due to German submarine warfare, matching query's focus on voluntary entry.",
+    "score": 8.0
+  },
+  "f8cec1c7d1f49fcbf3fd9da9fe8717f0d49345a44512ac57262cb3bd6a11f81e": {
+    "reason": "Defines visceral in context of anatomy, specifically referring to a layer of pleura.",
+    "score": 8.0
+  },
+  "fae25a9555f0d43097ce16bc945a176d36c22dea973fdf31dc295e23238da82f": {
+    "reason": "Passage defines visceral peritoneum, which is related to the query's definition request.",
+    "score": 8.0
+  }
+}

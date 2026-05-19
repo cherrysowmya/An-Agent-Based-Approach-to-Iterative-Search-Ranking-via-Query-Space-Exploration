@@ -1,0 +1,12 @@
+query_id,iteration,query,avg_llm_score,score_variance,improvement,selection_metric,selection_score,action,next_query
+1037798,1,who is robert gray,6.6,5.64,0.0,ndcg,0.190806,rerank,who is robert gray
+1037798,2,who is robert gray,6.6,5.64,0.0,ndcg,0.190806,stop,who is robert gray
+104861,1,cost of interior concrete flooring,7.8,0.96,0.0,ndcg,0.266379,rerank,cost of interior concrete flooring
+104861,2,cost of interior concrete flooring,7.8,0.96,0.0,ndcg,0.266379,stop,cost of interior concrete flooring
+1063750,1,why did the us volunterilay enter ww1,2.1,9.69,0.0,ndcg,0.0,refine_query,US entry into WW1 voluntary
+1063750,2,US entry into WW1 voluntary,7.0,5.8,4.9,ndcg,0.250448,rerank,US entry into WW1 voluntary
+1063750,3,US entry into WW1 voluntary,7.0,5.8,0.0,ndcg,0.250448,stop,US entry into WW1 voluntary
+1103812,1,who formed the commonwealth of independent states,6.4,5.44,0.0,ndcg,0.601194,rerank,who formed the commonwealth of independent states
+1103812,2,who formed the commonwealth of independent states,6.4,5.44,0.0,ndcg,0.601194,stop,who formed the commonwealth of independent states
+1106007,1,define visceral?,7.3,6.01,0.0,ndcg,0.308835,rerank,define visceral?
+1106007,2,define visceral?,7.3,6.01,0.0,ndcg,0.308835,stop,define visceral?

@@ -1,0 +1,21 @@
+BM25 + Agent-Based Iterative Refinement Run
+===========================================
+corpus_path: data/msmarco_trec_dl_2019_judged/corpus.csv
+queries_path: data/msmarco_trec_dl_2019_judged/queries.csv
+qrels_path: data/msmarco_trec_dl_2019_judged/qrels.csv
+bm25_top_k: 10
+final_top_k: 10
+max_iterations: 3
+score_threshold: 6.0
+improvement_epsilon: 0.25
+relevance_threshold: 2.0
+model: llama3.1:8b
+max_queries: 5
+hybrid_weight: 0.15
+selection_metric: ndcg
+
+Dataset Summary
+---------------
+documents: 9139
+queries: 5
+judged query-document pairs: 9260
