@@ -37,6 +37,12 @@ def build_parser() -> argparse.ArgumentParser:
         default="outputs/msmarco_trec_dl_2019_baseline",
         help="Directory where rankings.csv, metrics.json, and run_log.txt are written.",
     )
+    parser.add_argument(
+        "--max-queries",
+        type=int,
+        default=None,
+        help="Optional query limit for quick local runs.",
+    )
     return parser
 
 
@@ -49,6 +55,7 @@ def main() -> None:
         output_dir=Path(args.out),
         top_k=args.top_k,
         relevance_threshold=args.relevance_threshold,
+        max_queries=args.max_queries,
     )
     print(json.dumps(metrics["aggregate"], indent=2, sort_keys=True))
 

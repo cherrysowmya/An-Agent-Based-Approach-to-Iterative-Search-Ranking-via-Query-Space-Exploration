@@ -5,7 +5,7 @@ from __future__ import annotations
 import csv
 import json
 from pathlib import Path
-from typing import Dict, List, Union
+from typing import Dict, List, Optional, Union
 
 from search_ranker.bm25 import BM25Retriever
 from search_ranker.data import Document, Query, Qrels, load_corpus, load_qrels, load_queries
@@ -20,10 +20,15 @@ def run_baseline_experiment(
     output_dir: Union[str, Path],
     top_k: int = 5,
     relevance_threshold: float = 1.0,
+    max_queries: Optional[int] = None,
 ) -> Dict[str, object]:
     """Run BM25 retrieval and write rankings, metrics, and run metadata."""
     corpus = load_corpus(corpus_path)
     queries = load_queries(queries_path)
+    if max_queries is not None:
+        if max_queries <= 0:
+            raise ValueError("max_queries must be greater than 0")
+        queries = queries[:max_queries]
     qrels = load_qrels(qrels_path)
 
     retriever = BM25Retriever(corpus)
@@ -66,6 +71,7 @@ def run_baseline_experiment(
         qrels_path=Path(qrels_path),
         top_k=top_k,
         relevance_threshold=relevance_threshold,
+        max_queries=max_queries,
         corpus=corpus,
         queries=queries,
         qrels=qrels,
@@ -96,6 +102,7 @@ def _write_run_log(
     qrels_path: Path,
     top_k: int,
     relevance_threshold: float,
+    max_queries: Optional[int],
     corpus: List[Document],
     queries: List[Query],
     qrels: Qrels,
@@ -110,6 +117,7 @@ def _write_run_log(
         f"qrels_path: {qrels_path}",
         f"top_k: {top_k}",
         f"relevance_threshold: {relevance_threshold}",
+        f"max_queries: {max_queries}",
         "",
         "Dataset Summary",
         "---------------",
